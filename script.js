@@ -1,4 +1,5 @@
 let add = (a,b)=>{
     return a+b;
 }
-console.log(add(16,0));
+console.log(add(600,0));
+
